@@ -8,7 +8,7 @@
 
 <h2>📌 About Me <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h2>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=veth14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
@@ -89,9 +89,14 @@
   </table>
 </div>
 
-<h2>🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Languages and Tools</h2>
 
 <table align="center">
+  <!-- Frontend Development -->
+  <tr>
+    <td colspan="3" align="center"><strong>Frontend</strong></td>
+    <td colspan="3" align="center"><strong>Backend & Database</strong></td>
+  </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
@@ -106,12 +111,12 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br>Nginx
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
@@ -132,38 +137,42 @@
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
       <br>Firebase
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+  </tr>
+  <!-- Development Tools -->
+  <tr>
+    <td colspan="6" align="center"><strong>Development Tools</strong></td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br>Java
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="D3.js" />
@@ -172,7 +181,7 @@
   </tr>
 </table>
 
-<h2>📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=veth14&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="veth14" />
@@ -184,39 +193,4 @@
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=veth14&theme=algolia" alt="veth14" />
-</div>
-
-<h2>🔗 Connect With Me</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/ian-angelo-valmores-89aa8423a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fb.com/vianangelo14">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/itsss.iannn14">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.youtube.com/@vianangelo6421">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:vianangelo.14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-<h2>🚀 Current Projects</h2>
-
-<div align="center">
-  <a href="https://portfolioofvalmores.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veth14&repo=portfolio&theme=algolia" alt="Portfolio"/>
-  </a>
-  <a href="https://salemate.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veth14&repo=salemate&theme=algolia" alt="SaleMate"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </div>
