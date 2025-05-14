@@ -8,19 +8,86 @@
 
 <h2>📌 About Me <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h2>
 
-```javascript
-const ian = {
-  location: "Philippines",
-  currentFocus: "Modern React Portfolio",
-  learning: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-  lookingToCollaborate: "open-source React projects",
-  needHelpWith: "SaleMate E-commerce Platform",
-  askMeAbout: ["React", "Vue", "GSAP", "Web Development"],
-  funFact: "I am also a musician",
-  portfolio: "https://portfolioofvalmores.netlify.app",
-  contact: "vianangelo.14@gmail.com"
-};
-```
+<div align="center">
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=veth14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-Philippines-blue?style=flat-square&logo=googlemaps&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Location:</strong> Philippines
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /></a>
+      </td>
+      <td>
+        <strong>Current Focus:</strong> Modern React Portfolio
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-Learning-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+      </td>
+      <td>
+        <strong>Learning:</strong> React, TypeScript, Tailwind CSS, Vite
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-Collaborate-181717?style=flat-square&logo=github&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Looking to Collaborate:</strong> Open-source React projects
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-Help-red?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Need Help With:</strong> SaleMate E-commerce Platform
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-Ask_Me-green?style=flat-square&logo=quora&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Ask Me About:</strong> React, Vue, GSAP, Web Development
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/-Fun_Fact-purple?style=flat-square&logo=applemusic&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Fun Fact:</strong> I am also a musician
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://portfolioofvalmores.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=netlify&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Portfolio:</strong> <a href="https://portfolioofvalmores.netlify.app">portfolioofvalmores.netlify.app</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="mailto:vianangelo.14@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+      </td>
+      <td>
+        <strong>Contact:</strong> <a href="mailto:vianangelo.14@gmail.com">vianangelo.14@gmail.com</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2>🛠️ Languages and Tools</h2>
 
@@ -112,7 +179,6 @@ const ian = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veth14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veth14&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
