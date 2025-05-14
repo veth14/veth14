@@ -1,64 +1,156 @@
-<h1 align="center">Hi 👋, I'm Ian Angelo Valmores</h1>
-<h3 align="center">A passionate developer from Philippines</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ian+Angelo+Valmores;Full+Stack+Web+Developer;React+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veth14&label=Profile%20views&color=0e75b6&style=flat" alt="veth14" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=veth14&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="veth14" />
+</div>
 
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/ian-angelo-valmores-89aa8423a" target="_blank">
+<h2>📌 About Me <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h2>
+
+```javascript
+const ian = {
+  location: "Philippines",
+  currentFocus: "Modern React Portfolio",
+  learning: ["React", "TypeScript", "Tailwind CSS", "Vite"],
+  lookingToCollaborate: "open-source React projects",
+  needHelpWith: "SaleMate E-commerce Platform",
+  askMeAbout: ["React", "Vue", "GSAP", "Web Development"],
+  funFact: "I am also a musician",
+  portfolio: "https://portfolioofvalmores.netlify.app",
+  contact: "vianangelo.14@gmail.com"
+};
+```
+
+<h2>🛠️ Languages and Tools</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=d3" width="48" height="48" alt="D3.js" />
+      <br>D3.js
+    </td>
+  </tr>
+</table>
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=veth14&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="veth14" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veth14&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veth14&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=veth14&theme=algolia" alt="veth14" />
+</div>
+
+<h2>🔗 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ian-angelo-valmores-89aa8423a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://fb.com/vianangelo14" target="_blank">
+  <a href="https://fb.com/vianangelo14">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/itsss.iannn14" target="_blank">
+  <a href="https://instagram.com/itsss.iannn14">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/@vianangelo6421" target="_blank">
+  <a href="https://www.youtube.com/@vianangelo6421">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</p>
+  <a href="mailto:vianangelo.14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-## 💻 Languages and Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
-</p>
+<h2>🚀 Current Projects</h2>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veth14&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
-</p>
+<div align="center">
+  <a href="https://portfolioofvalmores.netlify.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veth14&repo=portfolio&theme=algolia" alt="Portfolio"/>
+  </a>
+  <a href="https://salemate.netlify.app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=veth14&repo=salemate&theme=algolia" alt="SaleMate"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veth14&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veth14&theme=dark" alt="GitHub Streak" />
-</p>
-
-## 🚀 About Me
-- 🔭 I'm currently working on [Modern React Portfolio](https://portfolioofvalmores.netlify.app)
-- 🌱 I'm currently learning **React, TypeScript, Tailwind CSS, and Vite**
-- 👯 I'm looking to collaborate on **open-source React projects**
-- 🤝 I'm looking for help with [SaleMate E-commerce Platform](https://salemate.netlify.app)
-- 👨‍💻 All of my projects are available at [my portfolio](https://portfolioofvalmores.netlify.app)
-- 📝 I regularly write articles on [Instagram](https://instagram.com/itsss.iannn14)
-- 💬 Ask me about **React, Vue and GSAP**
-- 📫 How to reach me: **vianangelo.14@gmail.com**
-- 📄 Know about my experiences on [LinkedIn](https://ph.linkedin.com/in/ian-angelo-valmores-89aa8423a)
-- ⚡ Fun fact: **I am also a musician**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
