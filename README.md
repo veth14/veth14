@@ -8,19 +8,20 @@
 
 <h2>📌 About Me <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></h2>
 
-```javascript
-const ian = {
-  location: "Philippines",
-  currentFocus: "Modern React Portfolio",
-  learning: ["React", "TypeScript", "Tailwind CSS", "Vite"],
-  lookingToCollaborate: "open-source React projects",
-  needHelpWith: "SaleMate E-commerce Platform",
-  askMeAbout: ["React", "Vue", "GSAP", "Web Development"],
-  funFact: "I am also a musician",
-  portfolio: "https://portfolioofvalmores.netlify.app",
-  contact: "vianangelo.14@gmail.com"
-};
-```
+<div align="left" style="background-color: #1e1e1e; padding: 15px; border-radius: 10px; margin-bottom: 20px;">
+<pre style="background-color: transparent; border: none; padding: 0; margin: 0;"><code style="color: #d4d4d4; font-family: 'Consolas', 'Courier New', monospace; font-size: 14px;"><span style="color: #569cd6;">const</span> <span style="color: #4fc1ff;">ian</span> <span style="color: #d4d4d4;">=</span> <span style="color: #d4d4d4;">{</span>
+  <span style="color: #9cdcfe;">location</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"Philippines"</span><span style="color: #d4d4d4;">,</span>
+  <span style="color: #9cdcfe;">currentFocus</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"Modern React Portfolio"</span><span style="color: #d4d4d4;">,</span>
+  <span style="color: #9cdcfe;">learning</span><span style="color: #d4d4d4;">:</span> <span style="color: #d4d4d4;">[</span><span style="color: #ce9178;">"React"</span><span style="color: #d4d4d4;">,</span> <span style="color: #ce9178;">"TypeScript"</span><span style="color: #d4d4d4;">,</span> <span style="color: #ce9178;">"Tailwind CSS"</span><span style="color: #d4d4d4;">,</span> <span style="color: #ce9178;">"Vite"</span><span style="color: #d4d4d4;">],</span>
+  <span style="color: #9cdcfe;">lookingToCollaborate</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"open-source React projects"</span><span style="color: #d4d4d4;">,</span>
+  <span style="color: #9cdcfe;">needHelpWith</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"SaleMate E-commerce Platform"</span><span style="color: #d4d4d4;">,</span>
+  <span style="color: #9cdcfe;">askMeAbout</span><span style="color: #d4d4d4;">:</span> <span style="color: #d4d4d4;">[</span><span style="color: #ce9178;">"React"</span><span style="color: #d4d4d4;">,</span> <span style="color: #ce9178;">"Vue"</span><span style="color: #d4d4d4;">,</span> <span style="color: #ce9178;">"GSAP"</span><span style="color: #d4d4d4;">,</span> <span style="color: #ce9178;">"Web Development"</span><span style="color: #d4d4d4;">],</span>
+  <span style="color: #9cdcfe;">funFact</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"I am also a musician"</span><span style="color: #d4d4d4;">,</span>
+  <span style="color: #9cdcfe;">portfolio</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"https://portfolioofvalmores.netlify.app"</span><span style="color: #d4d4d4;">,</span>
+  <span style="color: #9cdcfe;">contact</span><span style="color: #d4d4d4;">:</span> <span style="color: #ce9178;">"vianangelo.14@gmail.com"</span>
+<span style="color: #d4d4d4;">};</span>
+</code></pre>
+</div>
 
 <h2>🛠️ Languages and Tools</h2>
 
