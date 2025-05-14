@@ -194,3 +194,44 @@
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=veth14&theme=algolia" alt="veth14" />
 </div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3584E4&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center" style="margin-top: -90px; margin-bottom: 20px;">
+  <a href="https://github.com/veth14" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://ph.linkedin.com/in/ian-angelo-valmores-89aa8423a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://facebook.com/vianangelo14" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://instagram.com/itsss.iannn14" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://youtube.com/@vianangelo6421" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-right: 10px;"/>
+  </a>
+  <a href="mailto:vianangelo.14@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://portfolioofvalmores.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=500&height=45&lines=Thanks+for+visiting!+Let's+connect+and+build+something+amazing+together!" alt="Footer typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/veth14/veth14/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <sub>© 2024 Ian Angelo Valmores. All rights reserved.</sub>
+</div>
