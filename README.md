@@ -195,6 +195,11 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=veth14&theme=algolia" alt="veth14" />
 </div>
 
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=veth14&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3584E4&height=120&section=footer&animation=fadeIn" width="100%"/>
@@ -226,10 +231,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=500&height=45&lines=Thanks+for+visiting!+Let's+connect+and+build+something+amazing+together!" alt="Footer typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/veth14/veth14/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
