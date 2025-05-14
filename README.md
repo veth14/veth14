@@ -234,5 +234,5 @@
 </div>
 
 <div align="center">
-  <sub>© 2024 Ian Angelo Valmores. All rights reserved.</sub>
+  <sub>© 2025 Ian Angelo Valmores. All rights reserved.</sub>
 </div>
